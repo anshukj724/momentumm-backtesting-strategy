@@ -20,8 +20,16 @@ The strategy:
 
 
 
+
+
+
 Sharpe Ratio: 0.6539635130623694
+
+
+
 Max Drawdown: -0.3869016614697232
+
+
 
 
 
