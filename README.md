@@ -1,3 +1,4 @@
+
 # 📊 Cross-Asset Momentum Strategy Backtest
 
 ## 🚀 Strategy Overview
@@ -12,6 +13,19 @@ The strategy:
 - Includes transaction cost modeling (0.1%)
 - Evaluates performance using Sharpe Ratio and Drawdown
 
+
+--
+
+<img width="847" height="449" alt="download" src="https://github.com/user-attachments/assets/88f95de6-01f4-4aae-80a2-87c1aaed48b2" />
+
+
+
+Sharpe Ratio: 0.6539635130623694
+Max Drawdown: -0.3869016614697232
+
+
+
+<img width="826" height="449" alt="download" src="https://github.com/user-attachments/assets/61a3dce7-23c8-4499-a206-c502e948cd7e" />
 ---
 
 ## 📈 Assets
